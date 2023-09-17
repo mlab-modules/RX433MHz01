@@ -1,4 +1,4 @@
-description: null
+description: Receiver useful for low speed telemetry transmision.
 github_branch: RX433MHz01A
 github_repo: RX433MHz01
 github_url: https://github.com/mlab-modules/RX433MHz01
